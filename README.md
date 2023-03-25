@@ -27,41 +27,6 @@ Welcome to the Code Translation Tool, a project aimed at making it easier for de
     - Create comprehensive user documentation and tutorials
     - Develop examples and use cases for various languages and platforms
 
-Welcome to the Code Translation Tool, a project aimed at making it easier for developers to translate code between programming languages. We appreciate your interest in contributing to the project! The roadmap below outlines our current plans and the areas where we need help. Feel free to pick an issue or suggest improvements.
-
-## **Roadmap**
-
-1. **Core Functionality**
-    - Develop a language-agnostic Abstract Syntax Tree (AST) representation
-    - Implement parsers for source languages to convert code to the AST representation
-    - Implement generators for target languages to convert the AST representation to code
-    - Support translation of comments and documentation
-    - Create a command-line interface (CLI) for the tool
-2. **Language Support**
-    - Python
-    - JavaScript
-    - Java
-    - C++
-    - C#
-    - Ruby
-    - Golang
-    - (Add more languages based on community interest)
-3. **Project Structure Detection**
-    - Detect source and target language project structures (e.g., folders, files)
-    - Automatically translate all code files within a project
-    - Preserve the original project structure in the target language
-4. **Language Idioms and Best Practices**
-    - Automatically apply target language idioms and best practices during translation
-    - Provide suggestions for manual improvements when automatic translation is not possible or ideal
-5. **Testing and Validation**
-    - Implement testing frameworks to validate translated code
-    - Generate test cases to ensure the translated code produces the same output as the original code
-6. **Integration and Plugins**
-    - Develop plugins for popular Integrated Development Environments (IDEs)
-    - Integrate with version control systems (e.g., Git)
-7. **Documentation and Tutorials**
-    - Create comprehensive user documentation and tutorials
-    - Develop examples and use cases for various languages and platforms
 
 ## **How to Contribute**
 
