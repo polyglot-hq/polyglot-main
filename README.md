@@ -1,6 +1,6 @@
 # 
 
-Welcome to the Code Translation Tool, a project aimed at making it easier for developers to translate code between programming languages using OpenAI APIs. We appreciate your interest in contributing to the project! The roadmap below outlines our current plans and the areas where we need help. Feel free to pick an issue or suggest improvements.
+Welcome to the polyglotCT (Polyglot Code Translator), a project aimed at making it easier for developers to translate code between programming languages using OpenAI APIs. We appreciate your interest in contributing to the project! The roadmap below outlines our current plans and the areas where we need help. Feel free to pick an issue or suggest improvements.
 
 ## **Roadmap**
 
